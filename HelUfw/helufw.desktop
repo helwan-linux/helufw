@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=HelUfw Firewall Manager
+Comment=Manage UFW firewall rules with a graphical interface
+Exec=helufw
+Icon=helufw
+Terminal=false
+Type=Application
+Categories=System;Security;Settings;
+StartupNotify=true
+Keywords=Firewall;UFW;Network;Security;Linux;Helwan;
+
